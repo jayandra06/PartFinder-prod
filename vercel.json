@@ -1,0 +1,10 @@
+{
+  "headers": [
+    {
+      "source": "/v1.0.1/(.*).msix",
+      "headers": [
+        { "key": "Content-Type", "value": "application/msix" }
+      ]
+    }
+  ]
+}

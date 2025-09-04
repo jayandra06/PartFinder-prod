@@ -1,6 +1,6 @@
 # PartFinder MSIX Host
 
-This repository hosts the MSIX package for PartFinder application, providing a direct HTTPS URL for Microsoft Store submission.
+This repository hosts the MSIX package for PartFinder application, providing a direct HTTPS URL for Microsoft Store submission..
 
 ## Project Structure
 
